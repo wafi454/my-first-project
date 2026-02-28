@@ -10,7 +10,7 @@ include './inc/db_close.php';
 <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
     <div class="col-md-5 p-lg-5 mx-auto ">
     <img src="images/coum.png" alt="">
-        <h1 class="display-4 fw-normal">اربح مع ريان</h1>
+        <h1 class="display-4 fw-normal">اربح مع وافي</h1>
         <p class="lead fw-normal">باقي على فتح التسجيل</p>
         <h3 id="time"></h3>
         <p class="lead fw-normal">جوائز قيمه للسحب</p>
@@ -87,7 +87,7 @@ include './inc/db_close.php';
       <div class="modal-header">
         <?php foreach($users as $user): ?>
 <?php endforeach; ?>  
-        <h5 class="modal-title" id="modalLabel">الرابج في المسابقه</h5>
+        <h5 class="modal-title" id="modalLabel">الرابح في المسابقه</h5>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
