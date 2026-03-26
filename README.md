@@ -1,2 +1,2 @@
 "# Al-Faez (The Winner)" 
-Dev by :RAYAN MOHAMMED ALANAZI
+Dev by : wafi ali alasmri
